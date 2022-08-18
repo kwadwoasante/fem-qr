@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kwadwoasante/fem-qr)
-- Live Site URL: [Add live site URL here](https://femqr.netlify.app)
+- Solution URL: [GitHub Repository](https://github.com/kwadwoasante/fem-qr)
+- Live Site URL: [Netlify Link](https://femqr.netlify.app)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Resource 1](https://tailwindcss.com/) - This helped me in styling the webpage without writing much CSS. You do need to know CSS to understand what tailwind does under the hood though.
+- [TailwindCSS](https://tailwindcss.com/) - This helped me in styling the webpage without writing much CSS. You do need to know CSS to understand what tailwind does under the hood though.
 
 ## Author
 
